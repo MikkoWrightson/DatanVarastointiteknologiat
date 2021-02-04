@@ -1,0 +1,7 @@
+Asentelin dockerin, aika kivuton kokemus manjarolla se asentaa repoista.
+Suoraan sanottuna en muista tuliko se manjaron repoista vai archin AUR-repoista
+joten komento oli joko sudo pacman -S docker tai yay -S docker.
+
+SELECT "department_id"
+FROM "employee"
+LIMIT 50
